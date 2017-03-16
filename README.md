@@ -1,1 +1,4 @@
-# spring-boot-aspect-jetm-starter
+# Spring Boot Aspect Jetm Starter
+
+## License
+The MIT License (MIT)
